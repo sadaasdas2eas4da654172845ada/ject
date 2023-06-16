@@ -128,13 +128,21 @@ git log
 	git remote rm 【别名】
 	
 上传
+<<<<<<< HEAD
         git push -u 【别名】 master
+=======
+        git push -u 【别名】 main
+>>>>>>> 940194476ec37e168ac5703738380b8d0636cfdd
 	-u 参数表示为本地分支和远程分支建立关联
 	【别名】是远程仓库的别名
 	main 表示要推送的本地分支的名称
 	
 再次推送
+<<<<<<< HEAD
 	git push 【别名】 master
+=======
+	git push 【别名】 main
+>>>>>>> 940194476ec37e168ac5703738380b8d0636cfdd
 ```
 
 # 将代码推送到gitee、github中
@@ -200,4 +208,9 @@ https://app.netlify.com/
 
 
 
+<<<<<<< HEAD
 4、从GitHub导入项目
+=======
+4、从GitHub导入项目
+
+>>>>>>> 940194476ec37e168ac5703738380b8d0636cfdd
