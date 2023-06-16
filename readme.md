@@ -208,9 +208,5 @@ https://app.netlify.com/
 
 
 
-<<<<<<< HEAD
-4、从GitHub导入项目
-=======
 4、从GitHub导入项目
 
->>>>>>> 940194476ec37e168ac5703738380b8d0636cfdd
